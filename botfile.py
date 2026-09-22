@@ -8,7 +8,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("Bot is working!")
 
 def main():
-    app = Application.builder().token(BOT_TOKEN).build()
+    app = Application.builder().token(8720188300:AAGC-OQPQSkwXeIz5Jlx0iN3thF3K_GmQCI).build()
 
     app.add_handler(CommandHandler("start", start))
 
