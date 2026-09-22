@@ -1,7 +1,5 @@
-telegram-shop-bot/
-│
+eXe-shop-bot/
 ├── bot.py
-├── database.py
-├── config.py
 ├── requirements.txt
-├── ...
+├── .gitignore
+└── README.md
