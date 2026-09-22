@@ -1,0 +1,7 @@
+telegram-shop-bot/
+│
+├── bot.py
+├── database.py
+├── config.py
+├── requirements.txt
+├── ...
